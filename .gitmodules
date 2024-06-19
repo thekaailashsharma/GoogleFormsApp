@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/thekaailashsharma/google-forms-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/thekaailashsharma/GoogleFormsFrontEnd.git
